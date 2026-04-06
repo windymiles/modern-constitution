@@ -215,22 +215,17 @@ POWER_MAP.md
 
 ## Article VIII — Emergency Authority
 
-Temporarily modifies authority relationships within:
-
-Article IV — Legislature  
-Article V — Executive Administration  
-Article VI — Judiciary
+Enables temporary executive defensive response within the existing constitutional authority hierarchy without transferring sovereign authority or suspending legislative oversight or judicial review.
 
 Constrained by:
 
-Article I — Fundamental Rights  
+Article I — Fundamental Rights
 Article VII — Transparency and Accountability
 
 Evaluated using:
 
-INSTITUTIONAL_STRESS_TESTS.md  
+INSTITUTIONAL_STRESS_TESTS.md
 SYSTEM_GUARDRAILS.md
-
 
 ---
 
