@@ -108,3 +108,24 @@ CROSS_REFERENCE_MAP.md
 DECISIONS.md
 
 These documents form part of the constitutional design environment and help preserve institutional coherence across drafting and interpretation.
+
+---
+
+## Emergency Authority Continuity Principle
+
+Emergency defensive authority permits temporary executive response to immediate threats but does not suspend or dismantle the constitutional structure of representative or judicial oversight.
+
+Use of emergency authority does not:
+
+suspend legislative authority
+limit judicial review authority
+replace representative decision-making with executive discretion
+dissolve or bypass constitutional institutions
+
+Emergency authority operates within the existing constitutional hierarchy and remains subject to:
+
+immediate legislative review
+ongoing judicial compliance review
+transparency obligations where operationally possible
+
+Interpretation should reject any reading of emergency powers that converts temporary defensive authority into structural executive supremacy.

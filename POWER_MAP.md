@@ -264,6 +264,7 @@ Legislature
 Judiciary
 → constitutional compliance review
 
+Emergency defensive authority does not alter the constitutional hierarchy of authority between the legislature, executive, and judiciary. Legislative oversight and judicial review remain continuously operative during emergency response conditions.
 
 ---
 

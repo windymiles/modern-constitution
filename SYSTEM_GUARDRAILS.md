@@ -195,6 +195,7 @@ Temporary crisis authority becomes permanent governing authority.
 • immediate legislative review required  
 • emergency actions remain transparent where possible  
 • judiciary retains constitutional review authority
+• emergency authority does not suspend legislative authority, judicial review authority, or the operation of constitutional institutions
 
 
 ---
