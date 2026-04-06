@@ -267,6 +267,28 @@ Status: STABLE
 
 ---
 
+Emergency Authority Does Not Alter Constitutional Hierarchy
+
+Emergency defensive authority permits temporary executive response to immediate threats but does not suspend or modify the constitutional hierarchy between representative, administrative, and judicial institutions.
+
+Emergency authority does not:
+
+• transfer sovereign authority to the executive
+• suspend legislative oversight authority
+• suspend judicial review authority
+• authorize permanent emergency governance structures
+• alter the constitutional distribution of powers between branches
+
+Legislative review and judicial compliance review remain continuously operative during emergency conditions.
+
+Rationale:
+Historical democratic failure frequently occurs when temporary crisis powers are interpreted as permitting structural authority transfer. This rule preserves constitutional continuity during emergencies and prevents normalization of executive supremacy.
+
+Status: STABLE
+
+
+---
+
 # Open Structural Questions
 
 
