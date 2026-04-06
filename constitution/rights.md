@@ -1,0 +1,3 @@
+# Rights
+
+Draft pending.
